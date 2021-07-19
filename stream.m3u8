@@ -1,11 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:4
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-TARGETDURATION:2659
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-KEY:METHOD=AES-128,URI="http://52.172.157.225:83/api/webservices/getkey?cc=14&si=1968881&sp=mallika106&did=0F572EC1-E38A-B616-A1BA-2CF05D9B3CD7_$$_0026_B768_43AF_CE45._$$_K916596994_$$__$$_2CF05D9B3CD7&ac=c3da-6a03-c6d0-311f"
 #EXTINF:2659,
-#EXT-X-BYTERANGE:655936@0
 http://52.172.157.225:83/hls/index.html?fileUrl=https://apptest.etoosindia.com/vod/math/gb/vod2/2015/mat/gb/1504-11/m-gb-11-1401-trigonometry-150506-d.eub/master.m3u8&ac=c3da-6a03-c6d0-311f&si=1968881&sn=Dhruv%20Gargi&ppip=http://icanhazip.com&sp=mallika106&sl=false&cc=14&did=0F572EC1-E38A-B616-A1BA-2CF05D9B3CD7_$$_0026_B768_43AF_CE45._$$_K916596994_$$__$$_2CF05D9B3CD7&seektime=0
 #EXT-X-ENDLIST
