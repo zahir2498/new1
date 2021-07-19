@@ -3,7 +3,7 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-TARGETDURATION:2659
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-KEY:METHOD=AES-128,URI="http://52.172.157.225:83/api/webservices/getkey?cc=14&si=1968881&sp=mallika106&did=0F572EC1-E38A-B616-A1BA-2CF05D9B3CD7_$$_0026_B768_43AF_CE45._$$_K916596994_$$__$$_2CF05D9B3CD7&ac=c3da-6a03-c6d0-311f"
+#EXT-X-KEY:METHOD=AES-128,URI="key.bin"
 #EXTINF:2659,
 https://apptest.etoosindia.com/vod/math/gb/vod2/2015/mat/gb/1504-11/m-gb-11-1401-trigonometry-150506-d.eub/master.m3u8
 #EXT-X-ENDLIST
