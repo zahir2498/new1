@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.343667,
+https://bahri.shop/s/filename0.ts
+#EXTINF:10.176833,
+https://bahri.shop/s/filename1.ts
+#EXTINF:9.926589,
+https://bahri.shop/s/filename2.ts
+#EXTINF:10.510500,
+https://bahri.shop/s/filename3.ts
+#EXTINF:2.419244,
+https://bahri.shop/s/filename4.ts
+#EXT-X-ENDLIST
